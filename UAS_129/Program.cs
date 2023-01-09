@@ -238,8 +238,12 @@ namespace UAS_129
     }   
 }
 
-
-
-
-
+//2.Double Linked List;
+//3.PUSH, POP
+//4.REAR, FRONT
+//5.a. 4
+  // b.Inorder :1. subtree kiri
+    //          2. Menuju root
+    //          3. subtree kanan
+	//1 5 8 10 12 15 20 22 25 28 30 36 38 40 45 48 50
 
